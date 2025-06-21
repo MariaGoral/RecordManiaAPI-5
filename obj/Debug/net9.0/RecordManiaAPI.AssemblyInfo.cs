@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RecordManiaAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2487ee918b7a2e1accd30d2d19815831a7258d07")]
 [assembly: System.Reflection.AssemblyProductAttribute("RecordManiaAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RecordManiaAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

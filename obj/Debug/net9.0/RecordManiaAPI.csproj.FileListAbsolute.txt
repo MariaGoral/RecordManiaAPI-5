@@ -136,3 +136,4 @@
 /Users/mariagoral/Downloads/RecordManiaAPI-5/obj/Debug/net9.0/RecordManiaAPI.pdb
 /Users/mariagoral/Downloads/RecordManiaAPI-5/obj/Debug/net9.0/RecordManiaAPI.genruntimeconfig.cache
 /Users/mariagoral/Downloads/RecordManiaAPI-5/obj/Debug/net9.0/ref/RecordManiaAPI.dll
+/Users/mariagoral/Downloads/RecordManiaAPI-5/obj/Debug/net9.0/RecordManiaAPI.sourcelink.json
